@@ -1,0 +1,38 @@
+body
+{
+	font-family: arial;
+	font-size: 14px;
+}
+
+.container{
+	max-width: 700px;
+  	margin: 0px auto 0px;
+}
+
+.name{
+	text-align: center;
+}
+
+.info{
+	text-align: center;
+}
+
+.line{
+	border: 2px solid black;
+}
+
+th{
+	vertical-align: top;
+}
+
+.title{
+	text-align: left;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+table{
+	border-spacing: 30px;
+}
